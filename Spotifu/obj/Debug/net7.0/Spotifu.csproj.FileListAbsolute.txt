@@ -1,0 +1,14 @@
+C:\Users\nann4\source\Repos\Spotifu\bin\Debug\net7.0\Spotifu.exe
+C:\Users\nann4\source\Repos\Spotifu\bin\Debug\net7.0\Spotifu.deps.json
+C:\Users\nann4\source\Repos\Spotifu\bin\Debug\net7.0\Spotifu.runtimeconfig.json
+C:\Users\nann4\source\Repos\Spotifu\bin\Debug\net7.0\Spotifu.dll
+C:\Users\nann4\source\Repos\Spotifu\bin\Debug\net7.0\Spotifu.pdb
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.AssemblyInfoInputs.cache
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.AssemblyInfo.cs
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.csproj.CoreCompileInputs.cache
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.dll
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\refint\Spotifu.dll
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.pdb
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\Spotifu.genruntimeconfig.cache
+C:\Users\nann4\source\Repos\Spotifu\obj\Debug\net7.0\ref\Spotifu.dll
